@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vendettasamurai" alt="vendettasamurai" /></a> </p>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **NLP Projects**
 
 - 🌱 I’m currently learning **Machine learning + DSA**
 
