@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **Writes machine learning models that predict the future — still can’t decide where to go for summer vacation :)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/%20aviral-birthare-679246262</h3>
 <p align="left">
 </p>
 
