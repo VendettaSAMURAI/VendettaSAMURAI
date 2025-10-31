@@ -29,21 +29,25 @@
 
 ### 💼 Academic Projects
 
-#### 🏦 **Minor Project: Stronghold Analysis for Secure Banking**
-- **Repository:** [Stronghold Analysis (Banking)](https://github.com/VendettaSAMURAI/banking.git)
-- **Description:**  
-  Designed a secure banking data analysis system integrating **data encryption**, **AI-driven anomaly detection**, and **customer risk scoring**.  
-  Focused on applying **Machine Learning models** to detect fraudulent activity and enhance financial transaction security.
-- **Technologies:** Python, Flask, Pandas, Scikit-learn, MySQL
+#### 🧠 Stronghold Analytics (Jan 2024 – Apr 2024)
+**Repository:** [Stronghold Analysis (Banking)](https://github.com/VendettaSAMURAI/banking.git)  
+**Description:**  
+In this project, we focused on **predicting stock market trends** to help investors make informed financial decisions.  
+Using real-time market data from **Yahoo Finance (yfinance)**, we built computational models to generate **accurate stock movement predictions** from historical data spanning 2022 onwards.  
+Stronghold aims to **maximize profits and minimize losses** for investors in highly volatile financial environments.  
+**Technologies:** Python, Streamlit, Pandas, NumPy, TensorFlow, Bash, HTML5, CSS, JavaScript  
 
 ---
 
-#### 💸 **Major Project: Financial Management Application**
-- **Repository:** [Financial Management Application](https://github.com/VendettaSAMURAI/Minor-Project.git)
-- **Description:**  
-  Developed an **AI-based financial tracking system** for personal and enterprise-level budgeting.  
-  Integrated **machine learning forecasting** models to predict monthly expenses and savings trends.
-- **Technologies:** React, Node.js, Express, MongoDB, TensorFlow Lite
+#### 💸 Financial Management Application (Aug 2024 – Jan 2025)
+**Repository:** [Financial Management Application](https://github.com/VendettaSAMURAI/Minor-Project.git)  
+**Description:**  
+The main objective of this project is to develop a **user-friendly Finance Management App** to simplify personal finance handling.  
+It provides **budgeting, expense tracking, and savings insights** through comprehensive analytics tools that enable effective decision-making and financial stability.  
+**Technologies:** Vercel, Plaid, TailwindCSS, Next.js, React.js, Supabase, Appwrite  
+
+---
+
 
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/%20aviral-birthare-679246262</h3>
