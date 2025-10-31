@@ -27,6 +27,25 @@
 
 - ⚡ Fun fact **Writes machine learning models that predict the future — still can’t decide where to go for summer vacation :)**
 
+### 💼 Academic Projects
+
+#### 🏦 **Minor Project: Stronghold Analysis for Secure Banking**
+- **Repository:** [Stronghold Analysis (Banking)](https://github.com/VendettaSAMURAI/banking.git)
+- **Description:**  
+  Designed a secure banking data analysis system integrating **data encryption**, **AI-driven anomaly detection**, and **customer risk scoring**.  
+  Focused on applying **Machine Learning models** to detect fraudulent activity and enhance financial transaction security.
+- **Technologies:** Python, Flask, Pandas, Scikit-learn, MySQL
+
+---
+
+#### 💸 **Major Project: Financial Management Application**
+- **Repository:** [Financial Management Application](https://github.com/VendettaSAMURAI/Minor-Project.git)
+- **Description:**  
+  Developed an **AI-based financial tracking system** for personal and enterprise-level budgeting.  
+  Integrated **machine learning forecasting** models to predict monthly expenses and savings trends.
+- **Technologies:** React, Node.js, Express, MongoDB, TensorFlow Lite
+
+
 <h3 align="left">Connect with me:https://www.linkedin.com/in/%20aviral-birthare-679246262</h3>
 <p align="left">
 </p>
