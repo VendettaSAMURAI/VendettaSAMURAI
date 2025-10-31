@@ -30,7 +30,7 @@
 ### 💼 Academic Projects
 
 #### 🧠 Stronghold Analytics (Jan 2024 – Apr 2024)
-**Repository:** [Stronghold Analysis (Stock Prediction Analysis)](https://github.com/VendettaSAMURAI/banking.git)  
+**Repository:** [Stronghold Analysis (Stock Prediction Analysis)](https://github.com/VendettaSAMURAI/Minor_Project_Stronghold.git)  
 **Description:**  
 In this project, we focused on **predicting stock market trends** to help investors make informed financial decisions.  
 Using real-time market data from **Yahoo Finance (yfinance)**, we built computational models to generate **accurate stock movement predictions** from historical data spanning 2022 onwards.  
