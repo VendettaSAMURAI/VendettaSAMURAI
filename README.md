@@ -40,7 +40,7 @@ Stronghold aims to **maximize profits and minimize losses** for investors in hig
 ---
 
 #### 💸 Financial Management Application (Aug 2024 – Jan 2025)
-**Repository:** [Financial Management Application](https://github.com/VendettaSAMURAI/Minor-Project.git)  
+**Repository:** [Financial Management Application](https://github.com/VendettaSAMURAI/Major_Project_banking.git)  
 **Description:**  
 The main objective of this project is to develop a **user-friendly Finance Management App** to simplify personal finance handling.  
 It provides **budgeting, expense tracking, and savings insights** through comprehensive analytics tools that enable effective decision-making and financial stability.  
