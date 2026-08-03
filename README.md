@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Birthare</h1>
-<h3 align="center">A passionate learner in AIML</h3>
+<h3 align="center">A Data Science Student</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/NFA61GS9qKZ68/giphy.gif" width="300" />
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vendettasamurai" alt="vendettasamurai" /></a> </p>
 
-- 🔭 I’m currently working on **NLP Projects**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Machine learning + DSA**
+- 🌱 I’m currently learning **Nothing much refurbishing**
 
-- 👯 I’m looking to collaborate on **GSOC 2026**
+- 👯 I’m looking to collaborate on **GSOC 2027**
 
 - 🤝 I’m looking for help with **Mathematics for machine learning**
 
